@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/YouWin.unity
     guid: 273b2970cfb384f46bb9064c6ce8691a
+  - enabled: 1
+    path: Assets/Scenes/Dean's level.unity
+    guid: 5d612e42dbe66c2c1a5aae149c6b7867
   m_configObjects: {}
