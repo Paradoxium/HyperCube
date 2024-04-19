@@ -36,6 +36,12 @@ EditorBuildSettings:
     path: Assets/Scenes/EdisonLevel.unity
     guid: a3645a7c42af7934ab8577027e683b10
   - enabled: 1
+    path: Assets/Scenes/AndrewLevel.unity
+    guid: a37e81119796a45eb8b8be1976889d4b
+  - enabled: 1
+    path: Assets/Scenes/BrendanLevel.unity
+    guid: 72fac09a8ab5c4677950b47004f5e065
+  - enabled: 1
     path: Assets/Scenes/YouWin.unity
     guid: 273b2970cfb384f46bb9064c6ce8691a
   m_configObjects: {}
