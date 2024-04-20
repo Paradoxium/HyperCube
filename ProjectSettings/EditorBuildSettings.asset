@@ -4,5 +4,45 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CoolMainMenu.unity
+    guid: 23123e11ae000ba4aa2478d284b143cf
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: c2ccaff2283d9a9458db3f1e9a8f0191
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 35434d3a6e1f19247b3bfe94a9bf69e1
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 483905307183e6749adf3c30e0aa2a62
+  - enabled: 1
+    path: Assets/Scenes/TeacherAndrewLevel.unity
+    guid: d9eebd150267c1140b51b17396a0afef
+  - enabled: 1
+    path: Assets/Scenes/NikhilsLevel.unity
+    guid: 71dd63ed28251b143a11211f59c72112
+  - enabled: 1
+    path: Assets/Scenes/RyanLevel.unity
+    guid: 48afb5643a1b5401684933553a169a26
+  - enabled: 1
+    path: Assets/Scenes/Dean's level.unity
+    guid: 5d612e42dbe66c2c1a5aae149c6b7867
+  - enabled: 1
+    path: Assets/Scenes/EdisonLevel.unity
+    guid: a3645a7c42af7934ab8577027e683b10
+  - enabled: 1
+    path: Assets/Scenes/AndrewLevel.unity
+    guid: a37e81119796a45eb8b8be1976889d4b
+  - enabled: 1
+    path: Assets/Scenes/BrendanLevel.unity
+    guid: 72fac09a8ab5c4677950b47004f5e065
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 273b2970cfb384f46bb9064c6ce8691a
   m_configObjects: {}
