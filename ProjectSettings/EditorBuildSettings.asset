@@ -4,7 +4,6 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/CoolMainMenu.unity
@@ -42,6 +41,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BrendanLevel.unity
     guid: 72fac09a8ab5c4677950b47004f5e065
+  - enabled: 1
+    path: Assets/Scenes/NoahMLevel.unity
+    guid: ba360567b65af1542a1e71f7692f3fd1
+  - enabled: 1
+    path: Assets/Scenes/Humdard'sLevel.unity
+    guid: 3649a720f07cb024398ae0cf6316f916
   - enabled: 1
     path: Assets/Scenes/YouWin.unity
     guid: 273b2970cfb384f46bb9064c6ce8691a
